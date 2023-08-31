@@ -1,0 +1,13 @@
+home,Home
+
+plans,Plans
+
+...
+
+promises-description,High-quality product to customers,singular
+
+promises-description,High-quality products to customers,plural
+
+created-by,Created by %(author)s
+
+total-view,%(view)d total views
